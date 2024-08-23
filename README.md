@@ -9,7 +9,7 @@ We are pleased to announce that our MoA solution has achieved state-of-the-art (
 
 | Models                    | **LC Win Rate** | **Win Rate** |
 | :------------------------ | --------------- | ------------ |
-| Shopee-SlimMoA-v1         | 75.6%           | 73.3 %       |
+| Shopee-SlimMoA-v1         | 78.2%           | 76.2 %       |
 | Blendax.AI-gm-l3-v35      | 73.4%           | 73.4%        |
 | OpenPipe MoA GPT-4 Turbo  | 68.4%           | 63.2%        |
 | Together MoA              | 65.4%           | 59.9%        |
