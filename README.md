@@ -1,6 +1,7 @@
 # Shopee-SlimMoA-v1
 
-![image-20240823180403264](/Users/yawen.liu/Library/Application Support/typora-user-images/image-20240823180403264.png)
+![image](https://github.com/user-attachments/assets/b449e8aa-c4bc-4647-bd2e-6ae5c7beb7ac)
+
 
 We are pleased to announce that our MoA solution has achieved state-of-the-art (SOTA) performance on the AlpacaEval 2.0 Benchmark with length-controlled evaluation.
 
